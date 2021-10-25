@@ -5,7 +5,8 @@ You can use the [editor on GitHub](https://github.com/pjournal/gh-pages-template
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
-### [Assigment 2 week 3: İzmir Balık Hal Fiyatları)(Assigment Week3.html)
+### [Assiment 2 :Izmir Balık Hali Fiyatları](Assigment Week3.html)
+
 ### [Assigment 1 : Markdown homework](Assigment1.html)
 
 ### Markdown
